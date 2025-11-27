@@ -229,10 +229,6 @@ Please **do your own research** before making any investment decisions.
 
 ---
 
-## 📈 GitHub Stats
-
-![Inna’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=InnaTarasyan&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=InnaTarasyan&layout=compact&theme=radical)
 
 ---
 
