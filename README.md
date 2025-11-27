@@ -230,8 +230,6 @@ Please **do your own research** before making any investment decisions.
 ---
 
 
----
-
 ## 🏷️ Badges & Links
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/inna_t?style=social)](https://twitter.com/inna_t)  
